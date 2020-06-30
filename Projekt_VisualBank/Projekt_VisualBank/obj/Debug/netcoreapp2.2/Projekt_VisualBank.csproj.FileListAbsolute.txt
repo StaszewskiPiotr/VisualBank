@@ -1,0 +1,14 @@
+D:\studia\Warsztaty - C#\Projekt_VisualBank\Projekt_VisualBank\obj\Debug\netcoreapp2.2\Projekt_VisualBank.csprojAssemblyReference.cache
+D:\studia\Warsztaty - C#\Projekt_VisualBank\Projekt_VisualBank\obj\Debug\netcoreapp2.2\Projekt_VisualBank.csproj.CoreCompileInputs.cache
+D:\studia\Warsztaty - C#\Projekt_VisualBank\Projekt_VisualBank\obj\Debug\netcoreapp2.2\Projekt_VisualBank.AssemblyInfoInputs.cache
+D:\studia\Warsztaty - C#\Projekt_VisualBank\Projekt_VisualBank\obj\Debug\netcoreapp2.2\Projekt_VisualBank.AssemblyInfo.cs
+D:\studia\Warsztaty - C#\Projekt_VisualBank\Projekt_VisualBank\bin\Debug\netcoreapp2.2\Projekt_VisualBank.deps.json
+D:\studia\Warsztaty - C#\Projekt_VisualBank\Projekt_VisualBank\bin\Debug\netcoreapp2.2\Projekt_VisualBank.runtimeconfig.json
+D:\studia\Warsztaty - C#\Projekt_VisualBank\Projekt_VisualBank\bin\Debug\netcoreapp2.2\Projekt_VisualBank.runtimeconfig.dev.json
+D:\studia\Warsztaty - C#\Projekt_VisualBank\Projekt_VisualBank\bin\Debug\netcoreapp2.2\Projekt_VisualBank.dll
+D:\studia\Warsztaty - C#\Projekt_VisualBank\Projekt_VisualBank\bin\Debug\netcoreapp2.2\Projekt_VisualBank.pdb
+D:\studia\Warsztaty - C#\Projekt_VisualBank\Projekt_VisualBank\obj\Debug\netcoreapp2.2\Projekt_VisualBank.dll
+D:\studia\Warsztaty - C#\Projekt_VisualBank\Projekt_VisualBank\obj\Debug\netcoreapp2.2\Projekt_VisualBank.pdb
+D:\studia\Warsztaty - C#\Projekt_VisualBank\Projekt_VisualBank\obj\Debug\netcoreapp2.2\Projekt_VisualBank.Properties.Resources.resources
+D:\studia\Warsztaty - C#\Projekt_VisualBank\Projekt_VisualBank\obj\Debug\netcoreapp2.2\Projekt_VisualBank.csproj.GenerateResource.cache
+D:\studia\Warsztaty - C#\Projekt_VisualBank\Projekt_VisualBank\bin\Debug\netcoreapp2.2\kwotyKredytow.txt
